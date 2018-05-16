@@ -1,0 +1,63 @@
+<svg width="727px" height="494px" viewBox="25 28 727 494" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		    <!-- Generator: Sketch 3.8.3 (29802) - http://www.bohemiancoding.com/sketch -->
+		    <desc>Created with Sketch.</desc>
+		    <defs>
+		        <rect id="path-1" x="25" y="28" width="727" height="494"></rect>
+		        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="727" height="494" fill="white">
+		            <use xlink:href="#path-1"></use>
+		        </mask>
+		    </defs>
+		    <text id="微助用户群基础数据分析" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="32" font-weight="normal">
+		        <tspan x="49" y="80" fill="#000000">微助用户群基础数据分析</tspan>
+		    </text>
+		    <text id="用户年龄" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+		        <tspan x="56" y="129" fill="#000000">用户年龄</tspan>
+		        <tspan x="56" y="146" fill="#000000">小于18：2%</tspan>
+		        <tspan x="56" y="163" fill="#000000">19~25：13%</tspan>
+		        <tspan x="56" y="180" fill="#000000">26~30：22%</tspan>
+		        <tspan x="56" y="197" fill="#000000">31~40：54%</tspan>
+		        <tspan x="56" y="214" fill="#000000">41~50：8%</tspan>
+		        <tspan x="56" y="231" fill="#000000">50以上：1%</tspan>
+		    </text>
+		    <text id="用户受教育程度" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+		        <tspan x="159" y="129" fill="#000000">用户受教育程度</tspan>
+		        <tspan x="159" y="146" fill="#000000">初中及以下：3%</tspan>
+		        <tspan x="159" y="163" fill="#000000">高中：57%</tspan>
+		        <tspan x="159" y="180" fill="#000000">大专（高职）：33%</tspan>
+		        <tspan x="159" y="197" fill="#000000">本科：7%</tspan>
+		        <tspan x="159" y="214" fill="#000000">硕士：）0%（不足1%）</tspan>
+		        <tspan x="159" y="231" fill="#000000">博士及以上：0%</tspan>
+		    </text>
+		    <text id="用户司龄" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+		        <tspan x="302" y="129" fill="#000000">用户司龄</tspan>
+		        <tspan x="302" y="146" fill="#000000">1年以下：65%</tspan>
+		        <tspan x="302" y="163" fill="#000000">1~3年：32%</tspan>
+		        <tspan x="302" y="180" fill="#000000">3~6年：3%</tspan>
+		        <tspan x="302" y="197" fill="#000000">6年以上：不足1%</tspan>
+		    </text>
+		    <text id="APP安装数（非出厂配置）" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+		        <tspan x="403" y="129" fill="#000000">APP安装数（非出厂配置）</tspan>
+		        <tspan x="403" y="146" fill="#000000"> 5个以内：66%</tspan>
+		        <tspan x="403" y="163" fill="#000000"> 5~15：33%</tspan>
+		        <tspan x="403" y="180" fill="#000000"> 16~30：1%</tspan>
+		        <tspan x="403" y="197" fill="#000000">  30以上：0%</tspan>
+		    </text>
+		    <text id="APP类型" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="12" font-weight="normal">
+		        <tspan x="564" y="129" fill="#000000">APP类型</tspan>
+		        <tspan x="564" y="146" fill="#000000">聊天：微信、qq</tspan>
+		        <tspan x="564" y="163" fill="#000000">工具：墨迹 百度地图、美图秀秀</tspan>
+		        <tspan x="564" y="180" fill="#000000">新闻：网易、今日、腾讯</tspan>
+		        <tspan x="564" y="197" fill="#000000">医药：春雨、平安好医生</tspan>
+		        <tspan x="564" y="214" fill="#000000">购物：京东、淘宝</tspan>
+		        <tspan x="564" y="231" fill="#000000">游戏：消消乐、斗地主等</tspan>
+		    </text>
+		    <text id="简要数据分析：" stroke="none" fill="none" font-family="PingFangSC-Regular, PingFang SC" font-size="16.3675434" font-weight="normal">
+		        <tspan x="56" y="326" fill="#000000">简要数据分析：</tspan>
+		        <tspan x="56" y="349" fill="#000000">通过上述的数据不难得出，我们的用户群里呈现年龄偏大、受教育程度偏低、司龄短流动性大的</tspan>
+		        <tspan x="56" y="372" fill="#000000">特点，在手机操作方面等粘度手机用户占比较大。</tspan>
+		        <tspan x="56" y="395" fill="#000000">面对这类用户，我们认为APP的交互方式应以简单直观为主，尽量避免采用复合操作，wording</tspan>
+		        <tspan x="56" y="418" fill="#000000">表述尽量直白，除了共识类icon减少在APP中使用纯图形icon的情况，合理套用用户熟悉的操作</tspan>
+		        <tspan x="56" y="441" fill="#000000">概念（例如与微信近似的功能采用与之相同的交互方式）。新用户教育采取演示引导为主，</tspan>
+		        <tspan x="56" y="464" fill="#000000">文字说明辅助的方式，渐进式带领用户熟悉App。</tspan>
+		    </text>
+		</svg>
